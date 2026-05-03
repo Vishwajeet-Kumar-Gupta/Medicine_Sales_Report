@@ -1,13 +1,10 @@
-# Medicine Sales Report
+## Tools Used
+- Excel
 
-This project contains approximately 500 medicine sales records from different countries.
+## Objective
+To analyze medicine sales data and identify trends across different countries.
 
-## Features
-- Country-wise sales analysis
-- Medicine performance tracking
-- Data insights
-
-## Dataset
-- Total Records: 500+
-- Countries: Multiple
-- Category: Medicine Sales
+## Insights
+- Top selling countries
+- High demand medicines
+- Sales patterns
