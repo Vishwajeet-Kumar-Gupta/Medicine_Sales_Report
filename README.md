@@ -1,5 +1,5 @@
 ## Tools Used
-- Excel
+- Excel/Pivot_Tables/Dashboard_Creation
 
 ## Objective
 To analyze medicine sales data and identify trends across different countries.
